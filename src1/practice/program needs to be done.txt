@@ -1,0 +1,31 @@
+ remove duplicate char in string
+ dispplay only duplicate char in string
+ no of occurance of char in String
+ sum of no in array
+ 1st,2nd,3rd max in array
+ seggregate 0 & 1 in array
+ sum 1st 3 max
+ sum 1st 3min in array 
+ String_Array_no_of_vowels in each string
+ Remove Duplicate Characters In Array
+ string convert to ascii values
+ factorial
+ fibonacci
+   11 22 33 44 55 66 77 88 99 
+ print ascii values
+ sum of no's in hashmap
+ sum of no's to single digit
+ reverse integer
+ alternate prime no
+ recursion
+ star => trisngle
+ String b="Hi this is Testyantra";             // o/p => ar tnay ts etsisihtiH
+
+
+
+ASCII =>
+
+0-9 => 48-57 
+A-Z => 65-90
+a-z => 97-122
+
